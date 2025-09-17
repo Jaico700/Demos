@@ -8,3 +8,4 @@ I will be adding my basic C program files here
 IDK anything good yet <br>
 Excited<br>
 Let's where this goes
+Author - ArK
