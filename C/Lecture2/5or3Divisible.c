@@ -1,0 +1,16 @@
+#include <stdio.h>
+int main()
+{
+    int n;
+    printf("Your number: ");
+    scanf("%d",&n);
+    if (n%5==0 || n%3==0)
+    {
+        printf("Your number is divisible by 3 or 5");
+    }
+    else 
+    {
+        printf("Your number is not divisible by 3 or 5");
+    }
+    return 0;
+}
